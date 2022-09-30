@@ -5,7 +5,7 @@ It includes the following files:
 
 ## `css/reset.css`
 
-(Modern Reset CSS)[https://github.com/hankchizljaw/modern-css-reset], a barebones css reset.
+[Modern Reset CSS](https://github.com/hankchizljaw/modern-css-reset), a barebones css reset.
 
 ## `css/styles.css`
 
